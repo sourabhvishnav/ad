@@ -1,0 +1,96 @@
+body{
+    background-color: white;
+    font-family: 'Ubuntu';
+    /* background-color: black; */
+    color:black;
+} 
+
+#bgbanner img{
+  /* display: inline-block;
+  position: absolute; */
+  width: 500px
+}
+
+.home{
+  display: inline-block;
+  position: absolute;
+  right: 195px;
+  top: 20px;
+
+}
+.ecom{
+  display: inline-block;
+  position: absolute;
+  right: 95px;
+  top : 20px;
+
+}
+.seva{
+  display: inline-block;
+  position: absolute;
+  right: 25px;
+  top : 20px; 
+
+}
+.name{
+  display: inline-block;
+  position: absolute;
+  left: 45px;
+  top : 30px; 
+  font-size: 25px;
+  text-decoration: underline;
+ 
+}
+.tgl{
+ display : inline-block;
+  position: absolute;
+  left: 10px;
+  top : 70px; 
+  font-size: 20px;
+ 
+}
+.intro{
+ display : inline-block;
+  position: absolute;
+  left: 430px;
+  top : 100px; 
+  font-size: 22px; 
+  text-decoration: underline ;
+
+}
+.header{
+    border: 45px solid rgb(red, green, blue)
+}
+.logo{  
+ display : inline-block;
+  position: absolute;
+  left: 0px;
+  top : 0px; 
+}
+  #intro2{
+ display : inline-block;
+  position: absolute;
+  left: 310px;
+  top : 140px; 
+}
+#intro3{
+ display : inline-block;
+  position: absolute;
+  left: 310px;
+  top : 160px; 
+}
+
+.explore{
+  display : inline-block;
+  position: absolute;
+  left: 10px;
+  top : 230px; 
+}
+ 
+#ea a {
+  display : inline-block;
+  position: absolute;
+  left: 10px;
+  top : 320px;
+}
+ 
